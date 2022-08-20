@@ -1,17 +1,19 @@
-# Antonio Santana Junior...
+# Olá! Sou Antonio Santana Junior...
 
 Hoje trabalho na área de manutenção predial, buscando um novo conhecimento e assim iniciar uma migração de área.
 Iniciei os estudos de programação na formação Div Magalu com o seguinte contéudo:
-Fundamentos em desenvolvimento web (HTML, CSS).  Período 12/07/2022 a 21/07/2022
+Fundamentos em desenvolvimento web (HTML, CSS).  Período 12/07/2022 a 21/07/2022.
+
 Conclúido também na escola DNC (introdução a HTML + CSS).
+
 Em andamento curso projeto Stone Tech PCD, com o seguinte conteúdo:Metodologias ágeis
 Soft Skills - Cultura DevOps - GIT - Lógica de Programação - Introdução ao .NET - Frameworks em .NET - Identity Server e Visual Studio - Orientação a Objetos - Boas práticas de desenvolvimento - Codificação de APIs e Microsserviços - Introdução a Cloud
+
 <div align="center">
   <a href="https://github.com/asantana2409">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asantana2409&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asantana2409&layout=compact&langs_count=7&theme=dracula"/>
+ 
 </div>
-<div style="display: inline_block"><br>
 
 <div style="display: inline_block"><br>
   
