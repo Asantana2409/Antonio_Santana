@@ -12,8 +12,7 @@ Fundamentos em desenvolvimento web (HTML, CSS).  Período 12/07/2022 a 21/07/202
 
 Conclúido também na escola DNC (introdução a HTML + CSS).
 
-Em andamento curso projeto Stone Tech PCD, com o seguinte conteúdo:Metodologias ágeis
-Soft Skills - Cultura DevOps - GIT - Lógica de Programação - Introdução ao .NET - Frameworks em .NET - Identity Server e Visual Studio - Orientação a Objetos - Boas práticas de desenvolvimento - Codificação de APIs e Microsserviços - Introdução a Cloud
+Em andamento curso projeto Stone Tech PCD, com o seguinte conteúdo: Metodologias ágeis - Soft Skills - Cultura DevOps - GIT - Lógica de Programação - Introdução ao .NET - Frameworks em .NET - Identity Server e Visual Studio - Orientação a Objetos - Boas práticas de desenvolvimento - Codificação de APIs e Microsserviços - Introdução a Cloud
 
 <div align="center">
   <a href="https://github.com/asantana2409">
