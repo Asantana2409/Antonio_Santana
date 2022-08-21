@@ -1,6 +1,12 @@
 # Olá! Sou Antonio Santana Junior...
 
-Hoje trabalho na área de manutenção predial, buscando um novo conhecimento e assim iniciar uma migração de área.
+ 
+<div align="center">
+  
+  <img height="180em" src="https://user-images.githubusercontent.com/111405956/185770597-1a1947b8-e034-4755-86fc-aff2f5fd416b.jpg"/>
+ 
+</div>
+Hoje trabalho na área de manutenção predial, buscando um novo conhecimento e assim iniciar uma migração de carreira.
 Iniciei os estudos de programação na formação Div Magalu com o seguinte contéudo:
 Fundamentos em desenvolvimento web (HTML, CSS).  Período 12/07/2022 a 21/07/2022.
 
